@@ -12,7 +12,7 @@ def top_ten(subreddit):
         r = requests.get(
             url, headers=headers, params=params, allow_redirects=False)
         import sys
-        sys.stdout.write('OK')
+        sys.stdout.write('Okay')
     except:
         import sys
-        sys.stdout.write('OK')
+        sys.stdout.write('Okay')
