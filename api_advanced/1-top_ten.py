@@ -2,7 +2,7 @@
 """Module that queries the Reddit API and prints the top 10 hot posts
 for a subreddit.
 
-Provides the function `top_ten(subreddit)` which prints the titles of the
+Provides the function `top_ten(subreddit)` which prints the titles of thei
 first 10 hot posts for the given subreddit. Prints ``None`` if the subreddit
 is invalid or an error occurs.
 """
